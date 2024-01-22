@@ -1,0 +1,18 @@
+.questions, .answers{
+    list-style: none;
+}
+.questions{
+    font-size: 1.2rem;
+}
+.answers{
+    display: flex;
+    justify-content: flex-start;
+    gap: 2rem
+}
+.answers li{
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+}

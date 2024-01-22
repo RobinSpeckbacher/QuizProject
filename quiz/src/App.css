@@ -1,0 +1,14 @@
+:root{
+  --primaryColor: #1C1C1C;
+  --secondaryColor: #e74c3c;
+  --accentColor:#94D7A2;
+  --textColor: #fff;
+  --bgColor: #ecf0f1;
+  --highlightColor: #f39c12;
+}
+
+.flexCenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

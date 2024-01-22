@@ -1,0 +1,25 @@
+body{
+    background-color: var(--bgColor)
+}
+
+
+.quizCard{
+    background-color: var(--primaryColor);
+    padding: 6rem 8rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: var(--accentColor)
+}
+
+#startBtn{
+    padding: 1rem 2rem;
+    background-color: var(--accentColor);
+    border:none;
+    border-radius: 10px;
+}
+
+.quizCard h1{
+    margin: 0;
+}
